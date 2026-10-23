@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <!-- Redirección HTML inmediata -->
+    <meta http-equiv="refresh" content="0; url=/catalogo" />
+    <!-- Redirección por JavaScript como respaldo -->
+    <script>window.location.replace("/catalogo");</script>
+    <title>Redirigiendo a Electro Abruzza...</title>
+  </head>
+  <body>
+    Si no eres redirigido automáticamente, <a href="/catalogo">haz clic aquí para ver nuestro catálogo</a>.
+  </body>
+</html>
